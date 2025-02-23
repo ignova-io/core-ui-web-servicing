@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunk_minimal_kit_cra_js=self.webpackChunk_minimal_kit_cra_js||[]).push([[772],{22331:(t,s,e)=>{e.r(s),e.d(s,{default:()=>d});var i=e(49367),r=e(67132),a=e(57058),n=e(22370),l=e(5805),o=e(70579);const c={title:`Post details | Dashboard - ${a.P.appName}`};function d(){const{title:t=""}=(0,r.g)(),{post:s,postLoading:e,postError:a}=(0,n.a9)(t);return(0,o.jsxs)(o.Fragment,{children:[(0,o.jsx)(i.mg,{children:(0,o.jsxs)("title",{children:[" ",c.title]})}),(0,o.jsx)(l.yj,{post:s,loading:e,error:a})]})}}}]);
+//# sourceMappingURL=772.35988ab9.chunk.js.map

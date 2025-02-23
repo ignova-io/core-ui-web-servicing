@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunk_minimal_kit_cra_js=self.webpackChunk_minimal_kit_cra_js||[]).push([[484],{59019:(e,s,t)=>{t.r(s),t.d(s,{default:()=>c});var a=t(49367),i=t(57058),n=t(5805),r=t(70579);const l={title:`Create a new post | Dashboard - ${i.P.appName}`};function c(){return(0,r.jsxs)(r.Fragment,{children:[(0,r.jsx)(a.mg,{children:(0,r.jsxs)("title",{children:[" ",l.title]})}),(0,r.jsx)(n.sY,{})]})}}}]);
+//# sourceMappingURL=484.4bc2a265.chunk.js.map

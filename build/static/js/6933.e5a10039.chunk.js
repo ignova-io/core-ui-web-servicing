@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunk_minimal_kit_cra_js=self.webpackChunk_minimal_kit_cra_js||[]).push([[6933],{56933:(e,s,t)=>{t.r(s),t.d(s,{default:()=>c});var i=t(49367),r=t(57058),a=t(12106),l=t(70579);const n={title:`Order list | Dashboard - ${r.P.appName}`};function c(){return(0,l.jsxs)(l.Fragment,{children:[(0,l.jsx)(i.mg,{children:(0,l.jsxs)("title",{children:[" ",n.title]})}),(0,l.jsx)(a.p,{})]})}}}]);
+//# sourceMappingURL=6933.e5a10039.chunk.js.map

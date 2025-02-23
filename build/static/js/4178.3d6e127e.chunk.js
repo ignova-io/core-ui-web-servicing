@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunk_minimal_kit_cra_js=self.webpackChunk_minimal_kit_cra_js||[]).push([[4178],{65877:(t,i,e)=>{e.r(i),e.d(i,{default:()=>u});var s=e(49367),n=e(67132),r=e(87579),a=e(57058),c=e(37414),l=e(70579);const d={title:`Tour edit | Dashboard - ${a.P.appName}`};function u(){const{id:t=""}=(0,n.g)(),i=r.tS.find((i=>i.id===t));return(0,l.jsxs)(l.Fragment,{children:[(0,l.jsx)(s.mg,{children:(0,l.jsxs)("title",{children:[" ",d.title]})}),(0,l.jsx)(c.Mm,{tour:i})]})}}}]);
+//# sourceMappingURL=4178.3d6e127e.chunk.js.map

@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunk_minimal_kit_cra_js=self.webpackChunk_minimal_kit_cra_js||[]).push([[1767],{44584:(e,t,s)=>{s.r(t),s.d(t,{default:()=>l});var i=s(49367),a=s(57058),n=s(55992),r=s(70579);const c={title:`Reset password | Layout centered - ${a.P.appName}`};function l(){return(0,r.jsxs)(r.Fragment,{children:[(0,r.jsx)(i.mg,{children:(0,r.jsxs)("title",{children:[" ",c.title]})}),(0,r.jsx)(n.QR,{})]})}}}]);
+//# sourceMappingURL=1767.1b2ea720.chunk.js.map

@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunk_minimal_kit_cra_js=self.webpackChunk_minimal_kit_cra_js||[]).push([[1605],{43662:(t,i,s)=>{s.r(i),s.d(i,{default:()=>l});var e=s(49367),n=s(57058),a=s(27501),c=s(70579);const r={title:`Account notifications settings | Dashboard - ${n.P.appName}`};function l(){return(0,c.jsxs)(c.Fragment,{children:[(0,c.jsx)(e.mg,{children:(0,c.jsxs)("title",{children:[" ",r.title]})}),(0,c.jsx)(a.DP,{})]})}}}]);
+//# sourceMappingURL=1605.b02b2f1a.chunk.js.map

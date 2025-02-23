@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunk_minimal_kit_cra_js=self.webpackChunk_minimal_kit_cra_js||[]).push([[4309],{43598:(e,t,i)=>{i.r(t),i.d(t,{default:()=>l});var n=i(49367),s=i(57058),a=i(55992),r=i(70579);const c={title:`Sign up | Layout centered - ${s.P.appName}`};function l(){return(0,r.jsxs)(r.Fragment,{children:[(0,r.jsx)(n.mg,{children:(0,r.jsxs)("title",{children:[" ",c.title]})}),(0,r.jsx)(a.Mb,{})]})}}}]);
+//# sourceMappingURL=4309.654053eb.chunk.js.map

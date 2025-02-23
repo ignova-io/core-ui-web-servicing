@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunk_minimal_kit_cra_js=self.webpackChunk_minimal_kit_cra_js||[]).push([[3189],{68958:(s,t,e)=>{e.r(t),e.d(t,{default:()=>r});var i=e(49367),a=e(57058),n=e(27501),c=e(70579);const l={title:`Account socials settings | Dashboard - ${a.P.appName}`};function r(){return(0,c.jsxs)(c.Fragment,{children:[(0,c.jsx)(i.mg,{children:(0,c.jsxs)("title",{children:[" ",l.title]})}),(0,c.jsx)(n.bb,{})]})}}}]);
+//# sourceMappingURL=3189.c72e49bd.chunk.js.map

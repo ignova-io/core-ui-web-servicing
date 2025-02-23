@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunk_minimal_kit_cra_js=self.webpackChunk_minimal_kit_cra_js||[]).push([[815],{54048:(e,i,t)=>{t.r(i),t.d(i,{default:()=>c});var s=t(49367),l=t(57058),n=t(40321),r=t(70579);const a={title:`Verify | Amplify - ${l.P.appName}`};function c(){return(0,r.jsxs)(r.Fragment,{children:[(0,r.jsx)(s.mg,{children:(0,r.jsxs)("title",{children:[" ",a.title]})}),(0,r.jsx)(n.L6,{})]})}}}]);
+//# sourceMappingURL=815.72d78812.chunk.js.map

@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunk_minimal_kit_cra_js=self.webpackChunk_minimal_kit_cra_js||[]).push([[4783],{24466:(e,t,a)=>{a.r(t),a.d(t,{default:()=>l});var s=a(49367),i=a(57058),r=a(89324),n=a(70579);const c={title:`Create a new product | Dashboard - ${i.P.appName}`};function l(){return(0,n.jsxs)(n.Fragment,{children:[(0,n.jsx)(s.mg,{children:(0,n.jsxs)("title",{children:[" ",c.title]})}),(0,n.jsx)(r.By,{})]})}}}]);
+//# sourceMappingURL=4783.0d7645ac.chunk.js.map

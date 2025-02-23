@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_minimal_kit_cra_js=self.webpackChunk_minimal_kit_cra_js||[]).push([[4340],{4340:s=>{s.exports=JSON.parse('{"demo":{"lang":"English","description":"The starting point for your next project is based on MUI. Easy customization helps you build apps faster and better."}}')}}]);

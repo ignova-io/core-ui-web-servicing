@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunk_minimal_kit_cra_js=self.webpackChunk_minimal_kit_cra_js||[]).push([[8101],{77294:(i,e,t)=>{t.r(e),t.d(e,{default:()=>_});var n=t(49367),s=t(67132),a=t(57058),c=t(47474),r=t(20282),l=t(70579);const d={title:`Invoice edit | Dashboard - ${a.P.appName}`};function _(){const{id:i=""}=(0,s.g)(),e=c.U8.find((e=>e.id===i));return(0,l.jsxs)(l.Fragment,{children:[(0,l.jsx)(n.mg,{children:(0,l.jsxs)("title",{children:[" ",d.title]})}),(0,l.jsx)(r.VK,{invoice:e})]})}}}]);
+//# sourceMappingURL=8101.7d9d00be.chunk.js.map

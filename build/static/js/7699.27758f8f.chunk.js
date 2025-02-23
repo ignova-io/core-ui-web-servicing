@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunk_minimal_kit_cra_js=self.webpackChunk_minimal_kit_cra_js||[]).push([[7699],{14588:(t,s,e)=>{e.r(s),e.d(s,{default:()=>c});var i=e(49367),a=e(57058),l=e(38523),n=e(70579);const r={title:`Update password | Layout split - ${a.P.appName}`};function c(){return(0,n.jsxs)(n.Fragment,{children:[(0,n.jsx)(i.mg,{children:(0,n.jsxs)("title",{children:[" ",r.title]})}),(0,n.jsx)(l.wC,{})]})}}}]);
+//# sourceMappingURL=7699.27758f8f.chunk.js.map

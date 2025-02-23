@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunk_minimal_kit_cra_js=self.webpackChunk_minimal_kit_cra_js||[]).push([[5545],{64826:(e,t,s)=>{s.r(t),s.d(t,{default:()=>l});var a=s(49367),i=s(57058),n=s(55992),r=s(70579);const c={title:`Update password | Layout centered - ${i.P.appName}`};function l(){return(0,r.jsxs)(r.Fragment,{children:[(0,r.jsx)(a.mg,{children:(0,r.jsxs)("title",{children:[" ",c.title]})}),(0,r.jsx)(n.ae,{})]})}}}]);
+//# sourceMappingURL=5545.92d116ca.chunk.js.map

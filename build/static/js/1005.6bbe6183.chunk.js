@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunk_minimal_kit_cra_js=self.webpackChunk_minimal_kit_cra_js||[]).push([[1005],{46630:(i,e,t)=>{t.r(e),t.d(e,{default:()=>r});var n=t(49367),s=t(57058),l=t(40321),a=t(70579);const c={title:`Sign in | Amplify - ${s.P.appName}`};function r(){return(0,a.jsxs)(a.Fragment,{children:[(0,a.jsx)(n.mg,{children:(0,a.jsxs)("title",{children:[" ",c.title]})}),(0,a.jsx)(l.cH,{})]})}}}]);
+//# sourceMappingURL=1005.6bbe6183.chunk.js.map

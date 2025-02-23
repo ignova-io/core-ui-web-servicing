@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunk_minimal_kit_cra_js=self.webpackChunk_minimal_kit_cra_js||[]).push([[6181],{95230:(i,t,e)=>{e.r(t),e.d(t,{default:()=>c});var s=e(49367),n=e(57058),a=e(38523),l=e(70579);const r={title:`Sign in | Layout split - ${n.P.appName}`};function c(){return(0,l.jsxs)(l.Fragment,{children:[(0,l.jsx)(s.mg,{children:(0,l.jsxs)("title",{children:[" ",r.title]})}),(0,l.jsx)(a.ML,{})]})}}}]);
+//# sourceMappingURL=6181.ec1a3661.chunk.js.map

@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunk_minimal_kit_cra_js=self.webpackChunk_minimal_kit_cra_js||[]).push([[9499],{46590:(i,s,t)=>{t.r(s),t.d(s,{default:()=>_});var e=t(49367),a=t(67132),n=t(87366),l=t(57058),r=t(95379),c=t(70579);const d={title:`Job details | Dashboard - ${l.P.appName}`};function _(){const{id:i=""}=(0,a.g)(),s=n._D.find((s=>s.id===i));return(0,c.jsxs)(c.Fragment,{children:[(0,c.jsx)(e.mg,{children:(0,c.jsxs)("title",{children:[" ",d.title]})}),(0,c.jsx)(r.F3,{job:s})]})}}}]);
+//# sourceMappingURL=9499.19d64c32.chunk.js.map

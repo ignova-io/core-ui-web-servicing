@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunk_minimal_kit_cra_js=self.webpackChunk_minimal_kit_cra_js||[]).push([[9445],{67614:(e,s,t)=>{t.r(s),t.d(s,{default:()=>c});var i=t(49367),a=t(57058),l=t(40321),n=t(70579);const r={title:`Reset password | Amplify - ${a.P.appName}`};function c(){return(0,n.jsxs)(n.Fragment,{children:[(0,n.jsx)(i.mg,{children:(0,n.jsxs)("title",{children:[" ",r.title]})}),(0,n.jsx)(l.CX,{})]})}}}]);
+//# sourceMappingURL=9445.1e9722ed.chunk.js.map

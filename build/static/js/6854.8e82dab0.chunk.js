@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunk_minimal_kit_cra_js=self.webpackChunk_minimal_kit_cra_js||[]).push([[6854],{4505:(s,t,e)=>{e.r(t),e.d(t,{default:()=>c});var i=e(49367),a=e(57058),r=e(37414),l=e(70579);const n={title:`Tour list | Dashboard - ${a.P.appName}`};function c(){return(0,l.jsxs)(l.Fragment,{children:[(0,l.jsx)(i.mg,{children:(0,l.jsxs)("title",{children:[" ",n.title]})}),(0,l.jsx)(r.ST,{})]})}}}]);
+//# sourceMappingURL=6854.8e82dab0.chunk.js.map

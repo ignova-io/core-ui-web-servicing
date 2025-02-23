@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunk_minimal_kit_cra_js=self.webpackChunk_minimal_kit_cra_js||[]).push([[1655],{3402:(e,t,a)=>{a.r(t),a.d(t,{default:()=>c});var s=a(49367),i=a(57058),n=a(95379),r=a(70579);const l={title:`Create a new job | Dashboard - ${i.P.appName}`};function c(){return(0,r.jsxs)(r.Fragment,{children:[(0,r.jsx)(s.mg,{children:(0,r.jsxs)("title",{children:[" ",l.title]})}),(0,r.jsx)(n.dK,{})]})}}}]);
+//# sourceMappingURL=1655.d262eeef.chunk.js.map

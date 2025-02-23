@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunk_minimal_kit_cra_js=self.webpackChunk_minimal_kit_cra_js||[]).push([[8983],{44280:(t,e,i)=>{i.r(e),i.d(e,{default:()=>c});var s=i(49367),n=i(57058),a=i(38523),l=i(70579);const r={title:`Verify | Layout split - ${n.P.appName}`};function c(){return(0,l.jsxs)(l.Fragment,{children:[(0,l.jsx)(s.mg,{children:(0,l.jsxs)("title",{children:[" ",r.title]})}),(0,l.jsx)(a.pn,{})]})}}}]);
+//# sourceMappingURL=8983.9d3a4d95.chunk.js.map

@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunk_minimal_kit_cra_js=self.webpackChunk_minimal_kit_cra_js||[]).push([[3648],{85915:(s,e,t)=>{t.r(e),t.d(e,{default:()=>l});var a=t(49367),i=t(57058),r=t(90263),n=t(70579);const c={title:`User cards | Dashboard - ${i.P.appName}`};function l(){return(0,n.jsxs)(n.Fragment,{children:[(0,n.jsx)(a.mg,{children:(0,n.jsxs)("title",{children:[" ",c.title]})}),(0,n.jsx)(r.KG,{})]})}}}]);
+//# sourceMappingURL=3648.81402fe4.chunk.js.map

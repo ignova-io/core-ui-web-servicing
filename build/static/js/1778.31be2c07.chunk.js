@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunk_minimal_kit_cra_js=self.webpackChunk_minimal_kit_cra_js||[]).push([[1778],{23781:(e,s,i)=>{i.r(s),i.d(s,{default:()=>c});var t=i(49367),r=i(57058),a=i(90263),l=i(70579);const n={title:`User profile | Dashboard - ${r.P.appName}`};function c(){return(0,l.jsxs)(l.Fragment,{children:[(0,l.jsx)(t.mg,{children:(0,l.jsxs)("title",{children:[" ",n.title]})}),(0,l.jsx)(a.CZ,{})]})}}}]);
+//# sourceMappingURL=1778.31be2c07.chunk.js.map

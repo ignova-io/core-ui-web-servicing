@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_minimal_kit_cra_js=self.webpackChunk_minimal_kit_cra_js||[]).push([[4930],{74930:i=>{i.exports=JSON.parse('{"app":"Application","job":"Emploi","user":"Utilisateur","travel":"Voyage","invoice":"Facture","blog":{"title":"Blog","caption":"Raccourcis clavier personnalis\xe9s."},"subheader":"Sous-titre"}')}}]);

@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunk_minimal_kit_cra_js=self.webpackChunk_minimal_kit_cra_js||[]).push([[7857],{61122:(e,t,i)=>{i.r(t),i.d(t,{default:()=>l});var s=i(49367),n=i(57058),r=i(55992),a=i(70579);const c={title:`Verify | Layout centered - ${n.P.appName}`};function l(){return(0,a.jsxs)(a.Fragment,{children:[(0,a.jsx)(s.mg,{children:(0,a.jsxs)("title",{children:[" ",c.title]})}),(0,a.jsx)(r.x4,{})]})}}}]);
+//# sourceMappingURL=7857.9ec36ec2.chunk.js.map

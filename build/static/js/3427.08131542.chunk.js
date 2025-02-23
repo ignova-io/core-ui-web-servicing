@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunk_minimal_kit_cra_js=self.webpackChunk_minimal_kit_cra_js||[]).push([[3427],{43116:(s,t,e)=>{e.r(t),e.d(t,{default:()=>l});var a=e(49367),i=e(57058),n=e(27501),c=e(70579);const r={title:`Account change password settings | Dashboard - ${i.P.appName}`};function l(){return(0,c.jsxs)(c.Fragment,{children:[(0,c.jsx)(a.mg,{children:(0,c.jsxs)("title",{children:[" ",r.title]})}),(0,c.jsx)(n.mM,{})]})}}}]);
+//# sourceMappingURL=3427.08131542.chunk.js.map
